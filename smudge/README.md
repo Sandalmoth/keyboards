@@ -13,4 +13,6 @@ The XIAO RP2040 or other controllers of the same form-factor might also also wor
 
 __2x GX12 3 or 4 pin connectors__
 
+__8x M3x8 SHCS and 8x M3 heat set inserts__
+
 Beyond that, wiring the matrices takes some diods and wire. Some rubber feet are also recommended to make it stay in place.
