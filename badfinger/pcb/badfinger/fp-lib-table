@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "nice-nano-kicad-master")(type "KiCad")(uri "${KIPRJMOD}/libs/nice-nano-kicad-master.pretty")(options "")(descr ""))
+  (lib (name "xiao")(type "KiCad")(uri "${KIPRJMOD}/libs/xiao")(options "")(descr ""))
+  (lib (name "seeduino_xiao")(type "KiCad")(uri "${KIPRJMOD}/libs/qtpy/seeduino_xiao.pretty")(options "")(descr ""))
+  (lib (name "TL499ACP")(type "KiCad")(uri "${KIPRJMOD}/libs/TL499ACP")(options "")(descr ""))
+  (lib (name "R-78S3.3-0.1")(type "KiCad")(uri "${KIPRJMOD}/libs/R-78S3.3-0.1")(options "")(descr ""))
+)
